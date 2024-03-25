@@ -7,4 +7,4 @@ To run the program:
 Change input.txt to test different policies (given the policies input follow the format), change dateString variable in PolicyRunner to change valuation date (given the string date follows format in input file i.e. MM/DD/YYYY)
 
 Assumptions:
-Policy records in input file are formatted correctly, end date of an input policy is after the start date of the policy
+Policy records in input file are formatted correctly, end date of an input policy is after the start date of the policy, end date of policy is within the year following the start date of the policy (i.e. start date is in 2021, end date must be in 2022)
